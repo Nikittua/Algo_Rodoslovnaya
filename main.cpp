@@ -14,7 +14,6 @@ int main()
 {
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
-
     map <string, string> mp;
     set<string> Tsari;
     int n; cin >> n;
@@ -37,11 +36,9 @@ int main()
         while(mp.count(current))
         {
             current = mp[current];
-            quantity++;
+            ++quantity;
         }
-        cout << it->first<< " " /*<<"    \t"*/ << quantity - 1 << endl;
+        cout << *iterator<< " " << quantity<< endl;
     }
-
-
     return 0;
 }

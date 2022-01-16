@@ -24,7 +24,6 @@ int main()
     string parent;
     for (int i = 1; i < n; i++)
     {
-        cout << i << ") ";
         cin >> child;
         cin >> parent;
         mp[child] = parent;  // добавляем новые элемент
@@ -33,8 +32,6 @@ int main()
 
     set<string>::iterator iter = Tsari.begin();
     map <string, string>::iterator it = mp.begin();
-
-
     for (it; it != mp.end(); it++)
     {
         string current = it->first;

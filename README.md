@@ -5,6 +5,7 @@
 Input:
 
 9
+
 Alexei Peter_I 
 Anna Peter_I 
 Elizabeth Peter_I
@@ -16,7 +17,6 @@ Alexander_I
 Paul_I 
 Nicholaus_I 
 Paul_I
-
 
 
 Output:

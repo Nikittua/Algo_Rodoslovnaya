@@ -11,12 +11,4 @@ Alexei Peter_I Anna Peter_I Elizabeth Peter_I Peter_II Alexei Peter_III Anna Pau
 
 Output:
 
-Alexander_I 4
-Alexei 1
-Anna 1
-Elizabeth 1
-Nicholaus_I 4
-Paul_I 3
-Peter_I 0
-Peter_II 2
-Peter_III 2
+Alexander_I 4  Alexei 1  Anna 1  Elizabeth 1  Nicholaus_I 4  Paul_I 3  Peter_I 0  Peter_II 2  Peter_III 2

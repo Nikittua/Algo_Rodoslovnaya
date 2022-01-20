@@ -5,7 +5,6 @@
 Input:
 
 9
-
 Alexei Peter_I 
 Anna Peter_I 
 Elizabeth Peter_I
